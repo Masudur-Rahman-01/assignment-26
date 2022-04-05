@@ -39,6 +39,7 @@ let form_info = document.getElementById('create-post-form')
             user_photo: data.uphoto,  
             content: data.content,
             post_photo: data.photo,
+
             
         }).then(res => {  
             
