@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Azmot Abdullah",
+      "user_photo": "https://media.istockphoto.com/photos/rain-fall-on-the-ground-picture-id1049365996?k=20&m=1049365996&s=612x612&w=0&h=tLu1PxVswN-g7YVg7MaHuBHtMAG4wWBZuz8p9YA2JtQ=",
+      "content": "I Love JavaScript, There Are So Many Things To Love JavaScript",
+      "post_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwx6iVZv59_ViomtDsnRKudgUnX2sxY2N3hQ&usqp=CAU"
+    },
+    {
+      "name": "Asgor Ali",
+      "user_photo": "https://ps.w.org/ultimate-member/assets/icon-256x256.png?rev=2143339",
+      "content": "I Love Javascript",
+      "post_photo": "https://images.unsplash.com/photo-1534215754734-18e55d13e346?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2FwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    }
+  ]
+}
